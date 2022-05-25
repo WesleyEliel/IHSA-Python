@@ -1,0 +1,11 @@
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 181 
+Total Thdv of the best result : 	 0.03692794193120346
+
+ ############################################## 
+

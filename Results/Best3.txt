@@ -1,0 +1,77 @@
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 73 
+Total Thdv of the best result : 	 0.03692676881241442
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 67 
+Total Thdv of the best result : 	 0.36908756726362957
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 0 
+Total Thdv of the best result : 	 0.36929332659169983
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 0 
+Total Thdv of the best result : 	 0.3688797644090399
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 41 
+Total Thdv of the best result : 	 0.3688472403375804
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 69 
+Total Thdv of the best result : 	 0.3728623487302288
+
+ ############################################## 
+
+
+
+
+
+ ########## Last perform ########## 
+
+Index of the best result  : 	 155 
+Total Thdv of the best result : 	 0.3728487901776966
+
+ ############################################## 
+
